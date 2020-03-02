@@ -1,2 +1,1 @@
-# WebBrowser
-Simple web browser
+Простенькая обёртка вокруг control WebBrowser. Написано на WinForms.
